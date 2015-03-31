@@ -18,6 +18,8 @@ This software was developed as part of the `AXES EU FP7 project
 <http://www.axes-project.eu/>`_. This front end needs to be used in conjunction
 with the link management and search system developed by AXES.
 
+This software is licensed under the Apache 2 license.
+
 
 Dependencies
 ------------
