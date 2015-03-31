@@ -253,7 +253,7 @@ service::
 
   LIMAS_RESPONSE_POSTPROCESSING_RULES = {
       'thumbnailUrl': [
-          (r'^(.*)$', r'http://axes.ch.bbc.co.uk/thumbs/thumbnail?image=\1')
+          (r'^(.*)$', r'http://<server>/thumbs/thumbnail?image=\1')
       ]
   }
   
