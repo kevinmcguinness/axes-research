@@ -6,7 +6,7 @@ AXES Research Search System
 :Date: 2013-05-01
 :Version: 0.7.5
 
-This is the front end to the `AXES http://www.axes-project.eu/`_ research
+This is the front end to the `AXES <http://www.axes-project.eu/>`_ research
 system. The software is a single page web application written in Python using
 the `Django <https://www.djangoproject.com/>`_ framework. The front end part is
 developed in HTML5, Javascript (with `jQuery <http://jquery.com>`_), and CSS3,
