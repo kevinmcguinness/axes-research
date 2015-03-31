@@ -1,0 +1,12 @@
+*.pyc
+.DS_Store
+/conf/supervisord.conf
+/static/
+/db/
+/logs/
+/media/
+/venv/
+/axesresearch/settings/local.py
+/conf/httpd.conf
+/\.idea/
+/www/
