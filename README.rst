@@ -1,9 +1,6 @@
 AXES Research Search System
 ===========================
 
-:Author: Kevin McGuinness 
-:Contact: kevin.mcguinness@dcu.ie
-:Date: 2013-05-01
 :Version: 0.7.5
 
 This is the front end to the `AXES <http://www.axes-project.eu/>`_ research
