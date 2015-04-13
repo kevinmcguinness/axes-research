@@ -27,7 +27,7 @@ Non-python dependencies (install in advance):
 
 Python dependencies (installed by ``boostrap.sh``):
 
-* `django <https://www.djangoproject.com/>`_ 1.5+
+* `django <https://www.djangoproject.com/>`_ 1.5.x or 1.6.x
 * `pymongo <http://api.mongodb.org/python/current/>`_
 * `requests <http://docs.python-requests.org/en/latest/>`_
 * `jsonrpclib <https://github.com/joshmarshall/jsonrpclib>`_
@@ -43,14 +43,14 @@ Python dependencies (installed by ``boostrap.sh``):
 Installation
 ============
 
-Bootstrap the virtual environment and install dependencies::
-
-  $ ./boostrap.sh
-
 Setup your local settings::
 
   (venv)$ cp axesresearch/settings/local.py.tmpl axesresearch/settings/local.py
   (venv)$ vi axesresearch/settings/local.py
+
+Bootstrap the virtual environment and install dependencies::
+
+  $ ./boostrap.sh
 
 Create folders for media and static files::
 
