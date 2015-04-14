@@ -60,6 +60,7 @@ echo "pip found"
 banner "Installing dependencies"
 install_dependency ipython
 install_dependency "django==1.6.11"
+install_dependency gunicorn
 install_dependency pymongo
 install_dependency requests
 install_dependency jsonrpclib
